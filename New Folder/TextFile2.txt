@@ -1,1 +1,2 @@
 nu fil textfile2 från Thomas
+ÄNDRINGAR I GAMMAL FIL I 2 OLIKA BRANCHER
